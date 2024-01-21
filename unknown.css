@@ -1,0 +1,30 @@
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: #F259f2;
+    text-align: center;
+    font-size: 80px;
+}
+p {
+    height: 20pt;
+}
+li {
+    display: flex;
+    width: 50pt;
+}
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    size: 100px;
+}
+header {
+    background-color: #f9999f;
+}
+nav {
+    background-color: aqua;
+}
+main {
+    background-color: bisque;
+    font-size: 20%;
+}
+footer {
+    background-color: chocolate;
+}
